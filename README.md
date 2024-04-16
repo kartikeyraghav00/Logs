@@ -1,0 +1,2 @@
+# Logs
+First Git Repo
